@@ -4,4 +4,4 @@ I have created a specialised dashboard around the HR data of an organisation, wh
 
 PROJECT DASHBOARD PBIX FILE:https://drive.google.com/file/d/1oLiLUNNNorpmQf13k6jd_9FT5QueYXo0/view?usp=sharing
 
-PROJECT DASHBOARD PDF FILE:https://drive.google.com/file/d/1fTC_K20HhjYfgYhu9RtsU3cX4GYTz3YI/view?usp=sharing
+PROJECT DASHBOARD PDF FILE:https://drive.google.com/file/d/1cTsu9XdEie0IuRrkz9gYpHWeft94AT3O/view?usp=sharing
